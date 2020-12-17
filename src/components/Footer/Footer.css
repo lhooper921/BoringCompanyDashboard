@@ -1,0 +1,12 @@
+footer {
+    position: inherit;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgb(255, 255, 255, .5);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    background-color: dodgerblue;
+    opacity: 70%;
+  }
