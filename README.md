@@ -1,7 +1,7 @@
 # Project 3 - Company Dashboard
 
 ### HEROKU: https://safe-anchorage-34555.herokuapp.com/
-![Dashboard logo](https://github.com/analuna01/Project3/blob/main/client/src/components/Home/images/bluebanner.jpg)
+
 ## Table of Contents
 1. [Description](#description)  
 2. [User Story](#user-story)
