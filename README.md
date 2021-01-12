@@ -37,7 +37,7 @@ THEN it will display a request time off form with a list of past requests
 WHEN I click Personal Info on the navigation bar  
 THEN it will display my personal information and allow me to edit and update the fields
 
-## Demo
+
 
 ## Screenshots
 
