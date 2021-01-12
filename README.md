@@ -1,6 +1,7 @@
 # Project 3 - Company Dashboard
 
-### HEROKU: https://safe-anchorage-34555.herokuapp.com/
+Deployed Application  
+ https://safe-anchorage-34555.herokuapp.com/
 
 ## Table of Contents
 1. [Description](#description)  
